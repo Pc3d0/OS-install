@@ -24,3 +24,15 @@ Pour Dconf :
 
 
 
+Tp Link Archer T600U nano : 
+(https://www.linux.org/threads/driver-for-tp-link-archer-t2u-nano.31555/#post-106204)
+- sudo apt install git dkms
+- git clone https://github.com/aircrack-ng/rtl8812au
+- cd rtl8812au
+- sudo make dkms_install
+- Then reboot
+- Check if your wifi is working
+
+
+
+
