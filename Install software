@@ -26,6 +26,18 @@ Pour Dconf :
 
 
 
+Java : 
+-   sudo apt-get install default-jre
+
+
+
+Minecraft : 
+-   Télécharger tlauncher 
+-   Dézipper le fichier
+-   Clic droit sur le jar > Permissions et cocher autoriser l'éxécution comme un logicel
+
+
+
 Tp Link Archer T600U nano : 
 (https://www.linux.org/threads/driver-for-tp-link-archer-t2u-nano.31555/#post-106204)
 -   sudo apt install git dkms
