@@ -11,6 +11,17 @@ Pour Discord :
 
 
 
+Pour Geequie :
+-   sudo apt install geequie
+
+
+
+Pour RawTherapee : 
+-   sudo apt install rawtherapee
+
+
+
+
 Pour Sublime text :
 -   sudo snap install sublime-text --classic
 
