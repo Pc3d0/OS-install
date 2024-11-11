@@ -1,1 +1,10 @@
-A
+I ) Création clé bootable W11 : 
+    1 ) Download l'iso directement depuis : https://www.microsoft.com/fr-fr/software-download/windows11  ( ne pas faire le support d'installation c'est plus long )
+    2 ) Rufus : https://rufus.ie/fr/ : version portable : cocher Supprimer les necessité  + désactiver Bitlocker
+    3 ) Ajouter le fichier txt qui contient le lien d'ici
+II ) Installer W11 : 
+    1 ) Débrancher ethernet
+    2 ) Shift + F10 pour ouvrir le terminal : OOBE\BYPASSNRO : ça va reboot le pc et après faire : Je n'ai pas internet 
+    3 ) Crée un compte local
+    4 ) Dans langue : Mettre anglais international afin de supprimer les bloatware
+    5 ) Dans les paramètre : Heure et langues > Langue et région > Format régional afin de mettre en 24 h
