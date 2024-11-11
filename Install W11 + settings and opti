@@ -1,10 +1,60 @@
-I ) Création clé bootable W11 : 
+I ) Créer clé bootable W11 : 
+
     1 ) Download l'iso directement depuis : https://www.microsoft.com/fr-fr/software-download/windows11  ( ne pas faire le support d'installation c'est plus long )
+
     2 ) Rufus : https://rufus.ie/fr/ : version portable : cocher Supprimer les necessité  + désactiver Bitlocker
+
     3 ) Ajouter le fichier txt qui contient le lien d'ici
+
+
 II ) Installer W11 : 
+
     1 ) Débrancher ethernet
+
     2 ) Shift + F10 pour ouvrir le terminal : OOBE\BYPASSNRO : ça va reboot le pc et après faire : Je n'ai pas internet 
+
     3 ) Crée un compte local
+
     4 ) Dans langue : Mettre anglais international afin de supprimer les bloatware
-    5 ) Dans les paramètre : Heure et langues > Langue et région > Format régional afin de mettre en 24 h
+    
+
+III ) Configurer W11 : 
+
+    1 ) Activer W11 : https://github.com/massgravel/Microsoft-Activation-Scripts : Ouvrir Powershell : coller irm https://get.activated.win | iex : rentrer 1 ( et c'est tout ptdr ) 
+
+    2 ) Dans les paramètre : Heure et langues > Langue et région > Format régional afin de mettre en 24 h
+
+    3 ) Installer firefox avec les extensions : 
+        a ) https://www.mozilla.org/fr/firefox/new/
+        b ) https://addons.mozilla.org/fr/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+        c ) https://addons.mozilla.org/fr/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+        d ) https://addons.mozilla.org/fr/firefox/addon/proton-pass/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+
+    4 ) Suivre toutes les vidéos a partir de Installer ses pilotes : https://installerwindows.fr/guide/windows-11
+
+    5 ) Curseur custom : Bluetooth et appareils > Souris > Paramètre de souris supplémentaires > Pointeurs
+
+    6 ) Menu W10 : https://github.com/valinet/ExplorerPatcher : DWL > lancer ep_setup.exe > clic droit barre des taches > ppté > menu démarré > W10 et préférence angle : coin arrondi menu flottant
+
+
+IV ) Installer logiciels : 
+
+    1 ) Désinstaller Edge : Mode chasseur revo uninstaller : lancer edge : pointer la fenetre puis cliquer desinstaller.
+
+    2 ) 3d builder : 
+        a ) https://3d-builder.fr.uptodown.com/windows/telecharger ( si ca fonctionne pas : installer les appx du lien juste dessous
+        b ) https://answers.microsoft.com/en-us/windows/forum/all/3d-builder-has-no-install-option-in-windows-11/902f6f5d-e039-49f2-b8b0-4b6ae5cd24d8
+
+    3 ) Logiciels a installer : 
+        a ) Discord : https://discord.com/
+        b ) SolidWorks : 9020005749845773JF29WTBB  https://www.solidworks.com/support/community-download#no-back
+        c ) Spotify : https://drive.google.com/drive/u/0/folders/12Qbwk05xYuyjpLmGW-O-4QTJyhal3tte
+        d ) Logitech : https://www.logitechg.com/fr-fr/innovation/g-hub.html
+        e ) 7-zip : https://7-zip.org/download.html
+        ( f ) Python : https://www.python.org/ + cocher pathmescouilles )
+    4 ) Logiciel portables : 
+        a ) Everything : https://www.voidtools.com/downloads/
+        b ) OrcaSlicer : https://orcaslicer.net/
+        c ) RevoUninstaller : https://www.revouninstaller.com/fr/
+        d ) SublimeText : 
+
